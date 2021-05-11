@@ -1,5 +1,6 @@
 # Intro
 Introduction to C#
+
 C# is a modern, general-purpose, object-oriented programming language developed by Microsoft and approved by European Computer Manufacturers Association (ECMA) and International Standards Organization (ISO).
 
 C# was developed by Anders Hejlsberg and his team during the development of .Net Framework.
@@ -23,3 +24,33 @@ It produces efficient programs.
 It can be compiled on a variety of computer platforms.
 
 It is a part of .Net Framework.
+
+Strong Programming Features of C#
+
+Although C# constructs closely follow traditional high-level languages, C and C++ and being an object-oriented programming language. It has strong resemblance with Java, it has numerous strong programming features that make it endearing to a number of programmers worldwide.
+
+Following is the list of few important features of C# −
+
+Boolean Conditions
+
+Automatic Garbage Collection
+
+Standard Library
+
+Assembly Versioning
+
+Properties and Events
+
+Delegates and Events Management
+
+Easy-to-use Generics
+
+Indexers
+
+Conditional Compilation
+
+Simple Multithreading
+
+LINQ and Lambda Expressions
+
+Integration with Windows
